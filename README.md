@@ -4,11 +4,11 @@ This repository presents a comprehensive data analysis project on road accident 
 ### 📁  Project Structure
 
 📦 Road Accident Project
-├── 📊 Road Accidents Project.xlsx          # Excel Dashboard
-├── 📈 Road Accident Project.pbix           # Power BI Dashboard
-└── README.md                              # Project Overview
+- <a href="https://github.com/Yashika432/Road-Accident-Analysis/blob/main/Road%20Accident%20Project.pbix">Road Accident Analysis Powerbi</a> - Power BI Dashboard
+- <a href="https://github.com/Yashika432/Road-Accident-Analysis/blob/main/Road%20Accidents%20Project.xlsx">Road Accident Analysis Excel</a> - Excel Dashboard
+- <a href="https://github.com/Yashika432/Road-Accident-Analysis/blob/main/Road%20Accidents%20Project.xlsx">Road Accident Analysis Excel</a> - Dataset For Road Accident Analysis
 
-📊 Excel Dashboard
+### 📊 Excel Dashboard
 
 A detailed interactive dashboard built in Excel using:
  - PivotTables and PivotCharts to summarize accident data
@@ -19,28 +19,32 @@ A detailed interactive dashboard built in Excel using:
       -  Casualties
       -  Urban vs Rural areas
 
-⚡ Power BI Dashboard
+### ⚡ Power BI Dashboard
 
 An advanced and visually rich dashboard developed in Power BI:
 
-📌 Key Features:
+#### 📌 Key Features:
   - Dynamic KPIs and visuals
   -  Trend analysis by time, area, and severity
 
-📆 Calendar Table:
+#### 📆 Calendar Table:
   - Created a custom calendar table in Power BI
   - Used DAX measures for date intelligence (Month, Year, Weekday)
   - Built relationships between the Road Accident data and Calendar table for time-based reporting
 
-📊 Visuals Include:
+#### 📊 Visuals Include:
   - KPI Cards (Total Accidents, Casualties)
   -  Bar & Column Charts (By Severity, Area, Time)
   - Line Graphs for trend analysis
   - Tree Maps & Heatmaps
   - Slicers for filtering (Year, Severity, Urban/Rural)
 
-🛠 Tools & Technologies
-  - Microsoft Excel
-  - Power BI Desktop
-  - DAX (Data Analysis Expressions)
-  - Power Query
+### Dashboard
+   - An interactive dashboard built to visualize and filter KPIs dynamically
+
+Excel Dashboard
+![image](https://github.com/Yashika432/Road-Accident-Analysis/blob/main/Road%20Accident%20Excel.png)
+
+Power Bi Dashboard
+![image](https://github.com/Yashika432/Road-Accident-Analysis/blob/main/Road%20Accident%20Power%20Bi%20Dashboard.png)
+
