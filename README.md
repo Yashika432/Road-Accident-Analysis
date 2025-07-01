@@ -1,7 +1,7 @@
 ## Road-Accident-Analysis
 This repository presents a comprehensive data analysis project on road accident data using Microsoft Excel and Power BI. The goal is to identify patterns, understand accident severity, and visualize key metrics for better decision-making and awareness.
 
-📁 ## Project Structure
+### 📁  Project Structure
 
 📦 Road Accident Project
 ├── 📊 Road Accidents Project.xlsx          # Excel Dashboard
