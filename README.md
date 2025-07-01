@@ -24,8 +24,8 @@ A detailed interactive dashboard built in Excel using:
 An advanced and visually rich dashboard developed in Power BI:
 
 📌 Key Features:
-      - Dynamic KPIs and visuals
-      - Trend analysis by time, area, and severity
+  - Dynamic KPIs and visuals
+  -  Trend analysis by time, area, and severity
 
 📆 Calendar Table:
       - Created a custom calendar table in Power BI
